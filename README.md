@@ -1,4 +1,4 @@
-#Testador de Velocidade de Internet
+# Testador de Velocidade de Internet
 Um script simples em Python para medir a velocidade de download, upload e ping da sua conexão à internet. Os resultados são armazenados em um arquivo CSV para histórico e análise posterior.
 
 📋 Funcionalidades
